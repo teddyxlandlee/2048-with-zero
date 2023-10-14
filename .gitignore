@@ -1,0 +1,17 @@
+# Object files
+*.o
+
+# Libraries
+*.a
+
+# Shared objects
+*.so
+*.so.*
+
+# Executables
+2048
+2048-with-zero
+
+# IDE
+.idea/
+.vscode/
